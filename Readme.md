@@ -1,5 +1,5 @@
 
-```markdown
+
 # Métodos Numéricos en Python
 
 ¡Bienvenido a mi proyecto de métodos numéricos! Soy Gregorio Cardona, estudiante de la Universidad de Pamplona en el 7mo semestre, y este trabajo fue realizado bajo la supervisión del ingeniero Jesús Durán. Aquí encontrarás implementaciones de varios métodos numéricos fundamentales: el método de la secante, la falsa posición, la bisección y Newton-Raphson.
@@ -22,14 +22,13 @@ Este es un método poderoso y eficiente que utiliza la derivada de la función p
 
 El proyecto está organizado de la siguiente manera:
 
-```
+```bash
 algoritmos-numericos/
 │
 ├── secante.py          # Implementación del método de la secante
 ├── falsa_posicion.py   # Implementación del método de la falsa posición
 ├── biseccion.py        # Implementación del método de la bisección
 ├── newton_raphson.py   # Implementación del método de Newton-Raphson
-├── ejemplos/           # Ejemplos de uso de cada método
 └── README.md           # Este archivo
 ```
 
@@ -58,9 +57,7 @@ Para cualquier pregunta o sugerencia, puedes contactarme a través de mi correo 
 
 ¡Gracias por tu interés en mi proyecto y espero que encuentres útiles estas implementaciones!
 
----
-
 **Gregorio Cardona**
 Estudiante de Ingeniería
 Universidad de Pamplona
-```
+
