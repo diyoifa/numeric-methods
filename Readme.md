@@ -58,6 +58,7 @@ Para cualquier pregunta o sugerencia, puedes contactarme a través de mi correo 
 ¡Gracias por tu interés en mi proyecto y espero que encuentres útiles estas implementaciones!
 
 **Gregorio Cardona**
-Estudiante de Ingeniería
+Estudiante de Ingeniería de sistemas 
 Universidad de Pamplona
+7to semestre
 
